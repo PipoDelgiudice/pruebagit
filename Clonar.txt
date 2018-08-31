@@ -1,0 +1,2 @@
+Para clonar un Repositorio tienen que ir hasta el directorio al cual quieren dejar el repositorio y despues con:
+git clone <url que esta disponible en el repositorio> <carpeta a donde van a ir todos los archivos>
